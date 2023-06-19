@@ -1,2 +1,2 @@
 master.txt
-mas2
+mas1
